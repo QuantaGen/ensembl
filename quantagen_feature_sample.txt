@@ -1,0 +1,2 @@
+#This is a sample file in Quantagen_feature branch
+Update by user 2019HT66015 to feature branch sample file
