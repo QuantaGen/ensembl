@@ -37,3 +37,4 @@ MultiTestDB.*.conf
 bioperl*.zip
 /modules/t/CLEAN.t
 /misc-scripts/xref_mapping/sql/populate_metadata.sql
+quantagen_prod_sample.ignore.txt
